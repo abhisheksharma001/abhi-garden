@@ -1,0 +1,22 @@
+# Abhishek's Garden
+
+> Notes, projects, and loose thoughts from my work as a software engineer
+> building with AI agents, developer tooling, and the occasional side quest.
+> Mostly AI, engineering, and productivity.
+
+## Pages
+
+- /startups — building stuff, one stupid idea at a time
+- /writings — blogs, shower thoughts, rants
+- /projects — experiments and builds
+- /library — books and reads
+- /timeline — progress and milestones
+
+## Elsewhere
+
+- GitHub: https://github.com/abhisheksharma001
+
+## About this site
+
+Minimal hand-rolled HTML and CSS. No build step, no JavaScript, no tracking.
+Inspired by digital gardens.
